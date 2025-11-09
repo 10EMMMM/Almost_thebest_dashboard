@@ -1,0 +1,22 @@
+{
+  "placeholderImages": [
+    {
+      "id": "login-background",
+      "description": "A dark, blurry photo of a forest.",
+      "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkYXJrJTIwZm9yZXN0fGVufDB8fHx8MTc2MjY5NzUwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dark forest"
+    },
+    {
+      "id": "form-image",
+      "description": "A retro computer sitting in a field with a reddish-orange sky.",
+      "imageUrl": "https://images.unsplash.com/photo-1510843572979-e4b9e790fdd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxyZXRybyUyMGNvbXB1dGVyfGVufDB8fHx8MTc2MjM4MTg3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "retro computer"
+    },
+    {
+      "id": "productivity-background",
+      "description": "A beautiful photo of a night sky over a mountain range.",
+      "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuCD4OxIGLcu8oDyPDHGLxIz1CfmoCJGDX2LWxGYyphZmIPM9HPT4A9BbMp1WPEU4lDtu0AoNkjN2KYS8IJVo5a4XibCGhe42DSb6UNXm6T6FCIYWt_pf9SOP_YpyvBoE6MCakhAMkJv3SfXVMRStn_K9fqzia1japPj3EkkoCx8o2WekGd8_XOcHoN3JuWvQQJ-7AgZ_PWYwXtiK5l7wiGDSgl3iOSJbnSPhepox100J65GcACk0yQyLENNSEQwj1hmVkhspmcwEtE",
+      "imageHint": "night sky"
+    }
+  ]
+}
